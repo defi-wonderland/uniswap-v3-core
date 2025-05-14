@@ -6,6 +6,14 @@
 [![Mythx](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/mythx.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/mythx.yml)
 [![npm version](https://img.shields.io/npm/v/@uniswap/v3-core/latest.svg)](https://www.npmjs.com/package/@uniswap/v3-core/v/latest)
 
+> ⚠️ **DEPRECATED – DO NOT USE**
+>
+> This repository is no longer maintained and is **deprecated**.
+>
+> It may contain **outdated, insecure, or vulnerable code** and should **not** be used in production or as a dependency in any project.
+>
+> The repository is retained solely for historical reference. No support, updates, or security patches will be provided.
+
 This repository contains the core smart contracts for the Uniswap V3 Protocol.
 For higher level contracts, see the [uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery)
 repository.
